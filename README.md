@@ -15,15 +15,22 @@
 
 ---
 
-## Навыки и инструменты
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sql.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg" alt="Azure DevOps" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jira.svg" alt="Jira" width="40" height="40"/>
-</div>
+### Навыки и инструменты
+
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
+
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
+
+![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=FF6600)
+
+![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-090909?style=for-the-badge&logo=&logoColor=)
+
+![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
@@ -42,7 +49,6 @@
 - **Создание тест-кейсов** — подборка кейсов для конкретных проектов
 - **Автоматизация тестирования** — планы или начальные скрипты (если есть), или идеи для развития
 
-Можно оформить так:
 
 ### Примеры моих работ
 
