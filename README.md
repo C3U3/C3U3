@@ -62,11 +62,15 @@
 
 Если у вас есть вопросы или предложения — буду рад связаться:
 
-[skymowan@gmail.com]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:skymowan@gmail.com)
 
 или через социальные сети:
 
-[t.me/C3R_U3D]
+ <div id="badges">
+    <a href="https://t.me/C3R_U3D" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
 
 ---
 
