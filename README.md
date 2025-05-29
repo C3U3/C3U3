@@ -17,13 +17,7 @@
 
 ## Навыки и инструменты
 
-![SQL](https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1)  SQL  
-![Postman](https://img.shields.io/badge/-Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37)  Postman  
-![DevTools](https://img.shields.io/badge/-DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=4285F4)  DevTools  
-![Jira](https://img.shields.io/badge/-Jira-ffffff?style=for-the-badge&logo=jira&logoColor=0052CC)  Jira  
-![Fiddler](https://img.shields.io/badge/-Fiddler-ffffff?style=for-the-badge&logo=fiddler&logoColor=FF6600)  Fiddler  
-![Charles](https://img.shields.io/badge/-Charles%20Proxy-ffffff?style=for-the-badge)  Charles  
-![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git&logoColor=F05032)  GIT
+![SQL](https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Postman](https://img.shields.io/badge/-Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37) ![DevTools](https://img.shields.io/badge/-DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=4285F4) ![Jira](https://img.shields.io/badge/-Jira-ffffff?style=for-the-badge&logo=jira&logoColor=0052CC) ![Fiddler](https://img.shields.io/badge/-Fiddler-ffffff?style=for-the-badge&logo=fiddler&logoColor=FF6600) ![Charles](https://img.shields.io/badge/-Charles%20Proxy-ffffff?style=for-the-badge) ![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
