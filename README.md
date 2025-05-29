@@ -17,28 +17,35 @@
 
 ## Навыки и инструменты
 
-<div style="display: flex; gap: 15px; align-items: center; flex-wrap: nowrap;">
-  <a href="#" title="SQL">
-    <img src="https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1" width="60" height="60" />
-  </a>
-  <a href="#" title="Postman">
-    <img src="https://img.shields.io/badge/-Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37" width="60" height="60" />
-  </a>
-  <a href="#" title="DevTools">
-    <img src="https://img.shields.io/badge/-DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=4285F4" width="60" height="60" />
-  </a>
-  <a href="#" title="Jira">
-    <img src="https://img.shields.io/badge/-Jira-ffffff?style=for-the-badge&logo=jira&logoColor=0052CC" width="60" height="60" />
-  </a>
-  <a href="#" title="Fiddler">
-    <img src="https://img.shields.io/badge/-Fiddler-ffffff?style=for-the-badge&logo=fiddler&logoColor=FF6600" width="60" height="60" />
-  </a>
-  <a href="#" title="Charles Proxy">
-    <img src="https://img.shields.io/badge/-Charles%20Proxy-ffffff?style=for-the-badge" width="60" height="60" />
-  </a>
-  <a href="#" title="GIT">
-    <img src="https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git&logoColor=F05032" width="60" height="60" />
-  </a>
+<div style="display: flex; gap: 20px; align-items: center; white-space: nowrap;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1" width="70" height="70" />
+    <span style="margin-top: 5px; font-size: 14px;">SQL</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/badge/-Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37" width="70" height="70" />
+    <span style="margin-top: 5px; font-size: 14px;">Postman</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/badge/-DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=4285F4" width="70" height="70" />
+    <span style="margin-top: 5px; font-size: 14px;">DevTools</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/badge/-Jira-ffffff?style=for-the-badge&logo=jira&logoColor=0052CC" width="70" height="70" />
+    <span style="margin-top: 5px; font-size: 14px;">Jira</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/badge/-Fiddler-ffffff?style=for-the-badge&logo=fiddler&logoColor=FF6600" width="70" height="70" />
+    <span style="margin-top: 5px; font-size: 14px;">Fiddler</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/badge/-Charles%20Proxy-ffffff?style=for-the-badge" width="70" height="70" />
+    <span style="margin-top: 5px; font-size: 14px;">Charles</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git&logoColor=F05032" width="70" height="70" />
+    <span style="margin-top: 5px; font-size: 14px;">GIT</span>
+  </div>
 </div>
 
 ---
