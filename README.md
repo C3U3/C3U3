@@ -1,6 +1,5 @@
 # Привет! Добро пожаловать в мой профиль!
 
-**Добро пожаловать!**  
 Я — мотивированный специалист, начинающий свой путь в области тестирования ПО. Стремлюсь создавать качественные и надежные продукты, постоянно развиваюсь и осваиваю новые инструменты. В будущем планирую освоить автоматизацию тестирования.
 
 ---
@@ -17,7 +16,13 @@
 
 ## Навыки и инструменты
 
-![SQL](https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Postman](https://img.shields.io/badge/-Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37) ![DevTools](https://img.shields.io/badge/-DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=4285F4) ![Jira](https://img.shields.io/badge/-Jira-ffffff?style=for-the-badge&logo=jira&logoColor=0052CC) ![Fiddler](https://img.shields.io/badge/-Fiddler-ffffff?style=for-the-badge&logo=fiddler&logoColor=FF6600) ![Charles](https://img.shields.io/badge/-Charles%20Proxy-ffffff?style=for-the-badge) ![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
+![SQL](https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1)  
+![Postman](https://img.shields.io/badge/-Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37)  
+![DevTools](https://img.shields.io/badge/-DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=4285F4)  
+![Jira](https://img.shields.io/badge/-Jira-ffffff?style=for-the-badge&logo=jira&logoColor=0052CC)  
+![Fiddler](https://img.shields.io/badge/-Fiddler-ffffff?style=for-the-badge&logo=fiddler&logoColor=FF6600)  
+![Charles](https://img.shields.io/badge/-Charles%20Proxy-ffffff?style=for-the-badge)  
+![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
@@ -38,6 +43,7 @@
 ### Примеры моих работ
 
 - [API-тесты на Postman](https://github.com/C3U3/C3U3/tree/5fee5421903f6f40460fb14ae93814f05ff2083e/API_Postman) — коллекция тестов для проверки API сервиса.  
+
 - [Тестовая документация для проектов](https://github.com/C3U3/C3U3/tree/66b363a87a9c9c9a46d3d5dd6b7195517b1cd3c8/TestDocs) — документация по ручному тестированию.
 
 ---
@@ -56,8 +62,8 @@
 
 или через социальные сети:
 
-<div id="badges">
-  <a href="https://t.me/C3R_U3D" target="_blank">
+<div style="margin-top:10px;">
+  <a href="https://t.me/C3R_U3D" target="_blank" style="display:inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
   </a>
 </div>
