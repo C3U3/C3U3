@@ -18,20 +18,13 @@
 
 ### Навыки и инструменты
 
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
-
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
-
-![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
-
-![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=FF6600)
-
-![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-090909?style=for-the-badge&logo=&logoColor=)
-
-![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=F05032)
-
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B&width=100) 
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37&width=100) 
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=4285F4&width=100) 
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC&width=100) 
+![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=FF6600&width=100) 
+![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-090909?style=for-the-badge&logo=&logoColor=&width=100) 
+![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=F05032&width=100)
 ---
 
 ## Сертификаты
